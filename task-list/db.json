@@ -1,0 +1,70 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Investigar sobre bootstrap",
+      "day": "agosto 5 a las 19:00",
+      "reminder": false
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "Mañana 19hs",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Mascota",
+      "day": "Mañana 19hs",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 10
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 11
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 12
+    },
+    {
+      "text": "Todo para tu Mascota",
+      "day": "comprar para...",
+      "reminder": false,
+      "id": 13
+    }
+  ]
+}

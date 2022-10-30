@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
